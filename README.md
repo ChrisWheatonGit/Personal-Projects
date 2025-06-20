@@ -1,5 +1,3 @@
-# Personal-Projects
-
 # 🔐 Personal Cybersecurity Projects
 
 Welcome to my personal cybersecurity project repository. This space is dedicated to developing hands-on skills, exploring real-world security challenges, and building a professional portfolio that reflects my growth and capability in cybersecurity.
